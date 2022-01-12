@@ -9,3 +9,5 @@ Sobre mim: Sou um jovem aspirante a programador, atualmente tentando migrar para
 Contato: 
    - LinkedIn: https://www.linkedin.com/in/victor-crimson-barsi-661a69162/
    - E-mail: vickbarsi@gmail.com 
+
+~Agradeço a visita e volte sempre! (o･ω･o)
