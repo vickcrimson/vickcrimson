@@ -1,6 +1,6 @@
 Olá! Me chamo Crimson e sou programador JS iniciante. Sinta-se livre para explorar meu git, onde posto meus estudos, treinos, atividades e projetos, segue um resumo de quem sou eu:
 
-   Nome: Victor Crimson
+   Nome: Victor Crimson<br>
    Idade: 22 Anos
    Localização: Ceará/Brasil
    Idiomas: PT-BR/EN
