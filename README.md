@@ -1,13 +1,20 @@
-Olá! Me chamo Crimson e sou programador JS iniciante. Sinta-se livre para explorar meu git, onde posto meus estudos, treinos, atividades e projetos, segue um resumo de quem sou eu:
-
-   Nome: Victor Crimson<br>
-   Idade: 22 Anos<br>
-   Localização: Ceará/Brasil<br>
-   Idiomas: PT-BR/EN<br>
-   Conhecimentos: HTML|CSS|JS|BOOTSTRAP|NODE.JS|SQL|REACT<br>
-   Sobre mim: Sou um jovem aspirante a programador, atualmente tentando migrar para a área de programação enquanto almejo. ao mesmo tempo, ingressar num curso de ensino superior na área de tecnologia com foco em desenvolvimento de sistemas e jogos. <br>
-   Contato: <br>
-      - LinkedIn: https://www.linkedin.com/in/victor-crimson-barsi-661a69162/<br>
-      - E-mail: vickbarsi@gmail.com <br>
-
-~Agradeço a visita e volte sempre! (o･ω･o)<br>
+<header> <img src="crimson.gif"> </header>
+<h1> Hi! My name is Crimson and this is my GitHub! ✨<br> </h1>
+   Feel free to explore, interact and contact me anytime! <br>
+   
+  
+   <h3>About me </h3> 
+   I'm a 23 years old developer who loves technologies and is trying to enter in the tech job market. I live in Brazil 🇧🇷, have 2 cats and my hobbies are play games, study and watch movies. Currently I'm working/studying with HTML, CSS, Javascript and Node.js. I'm very interestet in React, SQL and Vue.js but didn't started learning them for hour.  
+  <br>
+   
+   <h3> Contact Me </h3> 
+   
+   <a href="https://www.linkedin.com/in/victor-crimson-barsi-661a69162/"><img src="linked.png" alt="Victor's LinkedIn Profile"> </a>
+   <a href="https://www.instagram.com/eusoucrimsonquemsoueu/"><img src="insta.png" alt="Victor's Instagram Profile"> </a>
+   
+  <br>
+  <h3> My Stats </h3>
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickcrimson&show_icons=true) <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickcrimson)](https://github.com/anuraghazra/github-readme-stats)
+  
