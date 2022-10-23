@@ -4,7 +4,7 @@
    
   
    <h3>About me </h3> 
-   I'm a 23 years old developer who loves technologies and is trying to enter in the tech job market. I live in Brazil 🇧🇷, have 2 cats and my hobbies are play games, study and watch movies. Currently I'm working/studying with HTML, CSS, Javascript and Node.js. I'm very interestet in React, SQL and Vue.js but didn't started learning them for hour.  
+   I'm a 23 years old developer who loves technologies and is trying to enter in the tech job market. I live in Brazil, have 2 cats and my hobbies are play games, study and watch movies. Currently I'm working/studying with HTML, CSS, Javascript and Node.js. I'm very interestet in Interface Designs, UI/UX and Web Development. 
   <br>
    
    <h3> Contact Me </h3> 
